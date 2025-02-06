@@ -1,3 +1,6 @@
+from funcionalidades.empleados import empleado
+
+
 while True:
     print("""
             Bienvenido al sistema de registro de empleados
