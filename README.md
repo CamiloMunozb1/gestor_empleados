@@ -51,10 +51,10 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 5. Crea un pull request en este repositorio.
 
 ## Licencia
-Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo `LICENSE`.
+Este proyecto está bajo la licencia MIT. 
 
 ## Autor
-- **[Tu Nombre]** - Desarrollador del proyecto.
+- Juan Camilo Muñoz Bautista - Desarrollador del proyecto.
 
 ---
 
