@@ -1,3 +1,13 @@
+# Importamos la clase ConexionDB desde el módulo funcionalidad.empleados
+from funcionalidad.empleados import ConexionDB
+
+# Especificamos la ruta de la base de datos
+ruta = "C:/Users/POWER/ges_empleados.db.db"
+
+# Creamos una instancia de la clase ConexionDB con la ruta de la base de datos
+conexion = ConexionDB(ruta)
+
+# Iniciamos un bucle infinito para mantener el programa en ejecución hasta que el usuario decida salir
 while True:
     # Mostramos el menú de opciones al usuario
     print("""
